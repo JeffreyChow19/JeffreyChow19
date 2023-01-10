@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Chow</h1>
-<h3 align="center">A passionate frontend developer currently studying Computer Science at Bandung Institute of Technology (ITB)</h3>
+<h3 align="center">A passionate programmer currently studying Computer Science at Bandung Institute of Technology (ITB)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffreychow19&label=Profile%20views&color=0e75b6&style=flat" alt="jeffreychow19" /> </p>
 
