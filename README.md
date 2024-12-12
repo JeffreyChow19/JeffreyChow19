@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffreychow19&label=Profile%20views&color=0e75b6&style=flat" alt="jeffreychow19" /> </p>
 
-- 🌱 I’m currently learning **Firebase, NextJS**
 
 - 📫 How to reach me **chowprofessional@gmail.com**
 
